@@ -27,24 +27,24 @@ Please nhảm quá đừng dùng 😥
 
 ## 📃 TABLE OF CONTENTS
 
--   [# ✨ UIT - AUTO LOGIN ✨](#--uit---auto-login-)
-    -   [📃 TABLE OF CONTENTS](#-table-of-contents)
-    -   [🎆 CHỨC NĂNG](#-chức-năng)
-        -   [Các website đã test](#các-website-đã-test)
-    -   [🪴 HƯỚNG DẪN](#-hướng-dẫn)
-        -   [1️⃣ Cài đặt extension Tampermonkey](#1️⃣-cài-đặt-extension-tampermonkey)
-        -   [2️⃣ Captcha](#2️⃣-captcha)
-        -   [3️⃣ Cài script](#3️⃣-cài-script)
-        -   [4️⃣ Đổi tài khoản](#4️⃣-đổi-tài-khoản)
-    -   [📝 LICENSE](#-license)
-    -   [⭐ STAR GRAPH](#-star-graph)
+- [# ✨ UIT - AUTO LOGIN ✨](#--uit---auto-login-)
+  - [📃 TABLE OF CONTENTS](#-table-of-contents)
+  - [🎆 CHỨC NĂNG](#-chức-năng)
+    - [Các website đã test](#các-website-đã-test)
+  - [🪴 HƯỚNG DẪN](#-hướng-dẫn)
+    - [1️⃣ Cài đặt extension Tampermonkey](#1️⃣-cài-đặt-extension-tampermonkey)
+    - [2️⃣ Captcha](#2️⃣-captcha)
+    - [3️⃣ Cài script](#3️⃣-cài-script)
+    - [4️⃣ Đổi tài khoản](#4️⃣-đổi-tài-khoản)
+  - [📝 LICENSE](#-license)
+  - [⭐ STAR GRAPH](#-star-graph)
 
 ---
 
 ## 🎆 CHỨC NĂNG
 
--   Dựa vào extension / userscript khác để giải captcha
--   Tự động login các website của UIT
+- Dựa vào extension / userscript khác để giải captcha
+- Tự động login các website của UIT
 
 > [!NOTE]
 >
@@ -58,11 +58,11 @@ Please nhảm quá đừng dùng 😥
 
 ### Các website đã test
 
--   [x] https://courses.uit.edu.vn/login/index.php
--   [x] https://khmt.uit.edu.vn/wecode/*
--   [x] https://daa.uit.edu.vn/*
--   [x] https://student.uit.edu.vn/*
--   [x] https://drl.uit.edu.vn/
+- [x] https://courses.uit.edu.vn/login/index.php
+- [x] https://khmt.uit.edu.vn/wecode/*
+- [x] https://daa.uit.edu.vn/*
+- [x] https://student.uit.edu.vn/*
+- [x] https://drl.uit.edu.vn/
 
 ---
 
@@ -70,18 +70,18 @@ Please nhảm quá đừng dùng 😥
 
 ### 1️⃣ Cài đặt extension Tampermonkey
 
--   [![Chrome](https://img.shields.io/badge/Chrome-ffc6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
--   [![Microsoft Edge](https://img.shields.io/badge/Edge-a0c4ff?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
--   [![Safari](https://img.shields.io/badge/Safari-bdb2ff?style=for-the-badge&logo=safari&logoColor=white)](https://apps.apple.com/us/app/tampermonkey/id1482490089)
--   [![Firefox](https://img.shields.io/badge/Firefox-%23ffd6a5?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
--   [![Opera](https://img.shields.io/badge/Opera-ffadad?style=for-the-badge&logo=opera&logoColor=white)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+- [![Chrome](https://img.shields.io/badge/Chrome-ffc6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [![Microsoft Edge](https://img.shields.io/badge/Edge-a0c4ff?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+- [![Safari](https://img.shields.io/badge/Safari-bdb2ff?style=for-the-badge&logo=safari&logoColor=white)](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+- [![Firefox](https://img.shields.io/badge/Firefox-%23ffd6a5?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- [![Opera](https://img.shields.io/badge/Opera-ffadad?style=for-the-badge&logo=opera&logoColor=white)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 ### 2️⃣ Captcha
 
 Đề xuất _(Ấn, không phải giải)_:
 
--   [![Userscript Click Captcha](https://img.shields.io/badge/Userscript-reCaptcha_Autoclick-ffc6ff?style=for-the-badge)](https://chrome.google.com/webstore/detail/rumola-captcha-solver-for/lnldappkjdflkphpgijmmaaejilhdnaj)
--   [![Buster: Captcha Solver for Humans](https://img.shields.io/badge/Extension-Buster_Captcha_Solver_for_Humans-a0c4ff?style=for-the-badge)](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl)
+- [![Userscript Click Captcha](https://img.shields.io/badge/Userscript-reCaptcha_Autoclick-ffc6ff?style=for-the-badge)](https://chrome.google.com/webstore/detail/rumola-captcha-solver-for/lnldappkjdflkphpgijmmaaejilhdnaj)
+- [![Buster: Captcha Solver for Humans](https://img.shields.io/badge/Extension-Buster_Captcha_Solver_for_Humans-a0c4ff?style=for-the-badge)](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl)
 
 ### 3️⃣ Cài script
 
@@ -89,7 +89,7 @@ Please nhảm quá đừng dùng 😥
 
 ### 4️⃣ Đổi tài khoản
 
--   Vào Tampermonkey -> UIT Auto Login -> Edit -> Storage
+- Vào Tampermonkey -> UIT Auto Login -> Edit -> Storage
 
 ## 📝 LICENSE
 
