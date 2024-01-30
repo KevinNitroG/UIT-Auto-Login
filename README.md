@@ -18,7 +18,10 @@ Rỗi làm mấy cái vô nghĩa .-.
 ![GitHub repo size](https://img.shields.io/github/repo-size/KevinNitroG/UIT-Auto-Login?style=for-the-badge&color=D8B4F8)
 [![GitHub contributors](https://img.shields.io/github/contributors/KevinNitroG/UIT-Auto-Login?style=for-the-badge&color=FBF0B2)](../../graphs/contributors)
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/KevinNitroG/UIT-Auto-Login?style=for-the-badge)](https://www.codefactor.io/repository/github/kevinnitrog/UIT-Auto-Login)
-[![wakatime](https://wakatime.com/badge/github/KevinNitroG/UIT-Auto-Login.svg?style=for-the-badge)](https://wakatime.com/badge/github/KevinNitroG/UIT-Auto-Login)
+[![wakatime](https://wakatime.com/badge/user/018b410d-fa7b-44ba-a5de-f025fcbeb499/project/018d5a73-ed7d-401f-8007-fc00f9139fbd.svg)](https://wakatime.com/badge/user/018b410d-fa7b-44ba-a5de-f025fcbeb499/project/018d5a73-ed7d-401f-8007-fc00f9139fbd)
+
+[![DeepSource](https://app.deepsource.com/gh/KevinNitroG/UIT-Auto-Login.svg/?label=active+issues&show_trend=true&token=nICooCMlbwiUEG0zbfLqGZJg)](https://app.deepsource.com/gh/KevinNitroG/UIT-Auto-Login/)
+[![DeepSource](https://app.deepsource.com/gh/KevinNitroG/UIT-Auto-Login.svg/?label=resolved+issues&show_trend=true&token=nICooCMlbwiUEG0zbfLqGZJg)](https://app.deepsource.com/gh/KevinNitroG/UIT-Auto-Login/)
 
 ---
 
