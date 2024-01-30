@@ -1,4 +1,4 @@
-# # ✨ UIT - AUTO LOGIN ✨
+# ✨ UIT - AUTO LOGIN ✨
 
 <pre align="center">
 ██╗   ██╗███████╗███████╗██████╗ ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗
@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   
 <strong>UIT - AUTO LOGIN</strong>
 Tự động login các website của UIT - có captcha
-Please nhảm quá đừng dùng 😥
+Luyện tập DOM JS... Nhảm quá đừng dùng 😥
 </pre>
 
 [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/KevinNitroG/UIT-Auto-Login?style=for-the-badge&color=CAEDFF)](../../commits/main)
@@ -27,7 +27,7 @@ Please nhảm quá đừng dùng 😥
 
 ## 📃 TABLE OF CONTENTS
 
--   [# ✨ UIT - AUTO LOGIN ✨](#--uit---auto-login-)
+-   [✨ UIT - AUTO LOGIN ✨](#-uit---auto-login-)
     -   [📃 TABLE OF CONTENTS](#-table-of-contents)
     -   [🎆 CHỨC NĂNG](#-chức-năng)
         -   [Các website đã test](#các-website-đã-test)
@@ -35,7 +35,6 @@ Please nhảm quá đừng dùng 😥
         -   [1️⃣ Cài đặt extension Tampermonkey](#1️⃣-cài-đặt-extension-tampermonkey)
         -   [2️⃣ Captcha](#2️⃣-captcha)
         -   [3️⃣ Cài script](#3️⃣-cài-script)
-        -   [4️⃣ Đổi tài khoản](#4️⃣-đổi-tài-khoản)
     -   [📝 LICENSE](#-license)
     -   [⭐ STAR GRAPH](#-star-graph)
 
@@ -87,9 +86,11 @@ Please nhảm quá đừng dùng 😥
 
 [![UIT Lecturer Survey](https://img.shields.io/badge/UIT_Auto_Login-a0c4ff?style=for-the-badge)](../../raw/main/src/UIT-Auto-Login.user.js)
 
-### 4️⃣ Đổi tài khoản
+> [!NOTE]
+>
+> Đổi tài khoản: Tampermonkey -> UIT Auto Login -> Edit -> Storage
 
--   Vào Tampermonkey -> UIT Auto Login -> Edit -> Storage
+---
 
 ## 📝 LICENSE
 
