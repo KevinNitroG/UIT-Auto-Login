@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   
 <strong>UIT - AUTO LOGIN</strong>
 Tự động login các website của UIT - có captcha
-Rỗi làm mấy cái vô nghĩa .-.
+Please nhảm quá đừng dùng 😥
 </pre>
 
 [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/KevinNitroG/UIT-Auto-Login?style=for-the-badge&color=CAEDFF)](../../commits/main)
@@ -30,10 +30,12 @@ Rỗi làm mấy cái vô nghĩa .-.
 -   [# ✨ UIT - AUTO LOGIN ✨](#--uit---auto-login-)
     -   [📃 TABLE OF CONTENTS](#-table-of-contents)
     -   [🎆 CHỨC NĂNG](#-chức-năng)
+        -   [Các website đã test](#các-website-đã-test)
     -   [🪴 HƯỚNG DẪN](#-hướng-dẫn)
         -   [1️⃣ Cài đặt extension Tampermonkey](#1️⃣-cài-đặt-extension-tampermonkey)
         -   [2️⃣ Captcha](#2️⃣-captcha)
         -   [3️⃣ Cài script](#3️⃣-cài-script)
+        -   [4️⃣ Đổi tài khoản](#4️⃣-đổi-tài-khoản)
     -   [📝 LICENSE](#-license)
     -   [⭐ STAR GRAPH](#-star-graph)
 
@@ -53,6 +55,14 @@ Rỗi làm mấy cái vô nghĩa .-.
 > Theo như quan sát thì sử dụng trình duyệt chrome là ít gặp captcha phức tạp, hầu như gặp captcha ấn?
 >
 > Không ấn / giải captcha thì submit fail, nên là cần extension / userscript hay bất cứ gì hỗ trợ ấn / giải captcha
+
+### Các website đã test
+
+-   [x] https://courses.uit.edu.vn/login/index.php
+-   [x] https://khmt.uit.edu.vn/wecode/*
+-   [x] https://daa.uit.edu.vn/*
+-   [x] https://student.uit.edu.vn/*
+-   [x] https://drl.uit.edu.vn/
 
 ---
 
@@ -77,7 +87,9 @@ Rỗi làm mấy cái vô nghĩa .-.
 
 [![UIT Lecturer Survey](https://img.shields.io/badge/UIT_Auto_Login-a0c4ff?style=for-the-badge)](../../raw/main/src/UIT-Auto-Login.user.js)
 
----
+### 4️⃣ Đổi tài khoản
+
+-   Vào Tampermonkey -> UIT Auto Login -> Edit -> Storage
 
 ## 📝 LICENSE
 
